@@ -2,10 +2,10 @@
 
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
-		{% assign prompt = 'About the Author' %}
+		{% assign prompt = 'Giới thiệu về tôi' %}
 	{% else %}
 		{% assign link = '/' %}
-		{% assign prompt = 'Back to Home' %}
+		{% assign prompt = 'Trở về trang chủ' %}
 	{% endif %}
 
 	<a href="{{ link | prepend: site.baseurl }}">
