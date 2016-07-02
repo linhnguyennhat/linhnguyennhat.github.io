@@ -1,12 +1,16 @@
 ---
 layout: page
-title: About
+title: Giới thiệu
 ---
 
-Hello.
+Chào!
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Tên của mình là Phi, mình sinh năm 1990, hiện đang kinh doanh điện thoại di động tại Vĩnh Long. [Điện thoại Vĩnh Long - duongphi.com](duongphi.com).
 
-**Just write thing that matters..**
+Đây là blog của mình. Blog được lập ra để chia sẻ về đủ thứ trên đời mà mình có ngẫu hứng để viết. 
+
+Facebook: [fb.com/nguyenphi](http://fb.com/nguyenphi)
+
+**Cảm ơn các bạn đã quan tâm.**
 
 Enjoy!
