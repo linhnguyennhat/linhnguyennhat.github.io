@@ -4,7 +4,7 @@ title: ElementaryOS những việc cần làm sau cài đặt và lỗi cần kh
 category: 
 tags: linux
 ---
-Ở bài viết này tôi không hướng dẫn cách cài đặt vì đã có khá nhiều hướng dẫn loại này, bạn chỉ cần Google chút là ra, do ElementaryOS dùng lõi Ubuntu nên sự khác biệt trong quá trình cài đặt không khác nhau nhiều. Sau đây là một vài vấn đề sau cài đặt mà tôi đã gặp phải và cách khắc phục sau một chút tìm hiểu muốn chia sẻ lại.
+Ở bài viết này tôi không hướng dẫn cách cài đặt vì đã có khá nhiều hướng dẫn loại này, bạn chỉ cần Google chút là ra. Do ElementaryOS dùng lõi Ubuntu nên sự khác biệt trong quá trình cài đặt không khác nhau nhiều. Sau đây là một vài vấn đề sau cài đặt mà tôi đã gặp phải và cách khắc phục sau một chút tìm hiểu muốn chia sẻ lại.
 
 ElementaryOS chỉ chiếm khoảng 5GB dung lượng ổ cứng sau khi cài đặt, nhẹ một cách bất ngờ, nhưng bạn cũng cần Custom lại chút đỉnh cho phù hợp cũng như cài đặt thêm các phần mềm cơ bản cần thiết.
 
