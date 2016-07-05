@@ -8,10 +8,10 @@ Hiện nay, có rất nhiều nền tảng để bạn có thể làm một blog
 ![Nền tảng blog tuyệt vời](https://cloud.githubusercontent.com/assets/19565657/16590826/579bd342-4303-11e6-9973-7b3c8606f855.jpg)
 
 Một nền tảng blog lý tưởng đối với Phi đó là:
-   * không tốn nhiều chi phí về bảo trì, bảo mật.
-   * bảo đảm sự ổn định, không bị "cà giựt" khi truy cập.
-   * có cơ chế tự quản lý và kiểm soát nội dung cá nhân nếu chẳng may dịch vụ hay nền tảng không tồn tại.
-   * giữ mọi thứ đơn giản để tập trung vào việc viết, cung cấp cho người đọc nội dung hay.
+* không tốn nhiều chi phí về bảo trì, bảo mật.
+* bảo đảm sự ổn định, không bị "cà giựt" khi truy cập.
+* có cơ chế tự quản lý và kiểm soát nội dung cá nhân nếu chẳng may dịch vụ hay nền tảng không tồn tại.
+* giữ mọi thứ đơn giản để tập trung vào việc viết, cung cấp cho người đọc nội dung hay.
 
 **Wordpress.com và Blogspot**
 
