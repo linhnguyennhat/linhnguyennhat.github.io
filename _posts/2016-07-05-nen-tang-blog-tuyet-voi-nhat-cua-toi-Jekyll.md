@@ -5,6 +5,8 @@ tags: Jekyll
 ---
 Hiện nay, có rất nhiều nền tảng để bạn có thể làm một blog cho riêng mình, mỗi cái đều có những thế mạnh riêng nhưng để phù hợp cho nhu cầu và điều kiện của từng người lại là một câu chuyện khác, tôi là một trong số đó. Bài viết dưới đây là chia sẻ những hiểu biết của cá nhân tôi khi tham khảo qua các dịch vụ blog phổ biến hiện nay như WordPress, Blogspot, Tumblr, Ghost,... và cuối cùng là Jekyll.
 
+![Nền tảng blog tuyệt vời](https://cloud.githubusercontent.com/assets/19565657/16590826/579bd342-4303-11e6-9973-7b3c8606f855.jpg)
+
 Một nền tảng blog lý tưởng đối với Phi đó là:
   * không tốn nhiều chi phí về bảo trì, bảo mật.
   * bảo đảm sự ổn định, không bị "cà giựt" khi truy cập.
