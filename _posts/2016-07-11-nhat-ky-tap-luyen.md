@@ -9,6 +9,8 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
 
 **70kg - 1m67 11/07/2016**
 
+![Hình trước khi tập](https://cloud.githubusercontent.com/assets/19565657/16832889/ad1d753a-49d6-11e6-85ec-9c3d4dc295b3.jpg)
+
 Lịch tập 5 ngày/ tuần
 
 **Ngày 1: Monday Chest & Abs 11/07/2016**
