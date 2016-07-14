@@ -12,7 +12,7 @@ layout: compress
 	<body>
 		{% include fbcmt.html %}
 		{% include header.html %}
-
+{% include nav.html nav=site.data.menu %}
 		<main>
 			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
 		</main>
