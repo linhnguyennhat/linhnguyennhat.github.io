@@ -3,7 +3,7 @@ layout: post
 title: Nhật ký tập luyện thể hình
 tags: workout
 ---
-Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) trong quyển sách cùng tên của Michael Matthews, là một trong những quyển sách bán chạy nhất và có lượng đánh giá cao nhất ở mục thể hình (Fitness & Excercise/ Weight Lifting).
+Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) trong quyển sách cùng tên của Michael Matthews, là một trong những quyển sách bán chạy nhất và có lượng đánh giá cao nhất ở mục thể hình (Fitness & Excercise/ Weight Lifting) của [Amazon](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG).
 
 Trước đây, tôi đã có tập một thời gian tại nhà với các bài tập của Beachbody như Insanity, P90X nhưng để đạt được thân hình như mong muốn thì việc đi đến phòng tập GYM là không thể tránh khỏi.
 
