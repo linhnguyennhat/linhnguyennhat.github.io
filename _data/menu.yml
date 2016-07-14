@@ -1,15 +1,15 @@
-- text: Home
+- text: Trang chủ
   url: /
-- text: First menu
-  url: /first-menu/
+- text: Facebook
+  url: http://www.facebook.com
   subitems:
     - text: First menu (sub)
       url: /first-menu/first-menu-sub/
       subitems:
         - text: First menu (sub-sub)
           url: /first-menu/first-menu-sub/first-menu-sub-sub/
-- text: Second menu
-  url: /second-menu/
+- text: Blogs
+  url: google.com
   subitems:
     - text: Second menu (sub)
       url: /second-menu/second-menu-sub/
