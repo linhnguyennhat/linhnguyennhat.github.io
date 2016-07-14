@@ -382,3 +382,28 @@ section {
     -webkit-transform: none;
   }
 }
+
+.menu-top {
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    li{
+      list-style: none;
+      display: inline-block;
+      a{
+        border: 0;
+        margin: 0 5px 0 0;
+        position: relative;
+        &:after{
+          content: "/";
+          padding: 0 0px 0 5px;
+        }
+      }
+    }
+}
+.menu-top li a:after {
+    content: "/";
+    padding: 0 0px 0 5px;
+}
