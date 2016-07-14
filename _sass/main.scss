@@ -403,7 +403,6 @@ section {
       }
     }
 }
-.menu-top li a:after {
-    content: "/";
-    padding: 0 0px 0 5px;
+.menu-top li:last-child a:after {
+    content: "";
 }
